@@ -45,7 +45,7 @@ Gostou do conteúdo? É importante frizar que ele foi gerado 100% por uma **Inte
 | Conteúdo    | Escreva um artigo como se fosse um escritor de artigos de banco de dados especialista em SQL, seguindo as regras fornecidas abaixo.|
 | Regras |{REGRAS} > Deve ser divido em blocos, sendo eles: - Explicação resumida sobre o que é, origem e usos de SQL. - Comandos Básicos de SQL e exemplos de seus usos. - Aplicando o SQL no nosso dia a dia. - Considerações finais sobre SQL. >Faça um call ro action para minhas redes sociais ao final. >Coloque 4 hashtags relacionadas ao assunto ao final. >No máximo 12 linhas por blocos de explicação; >Exemplos contam a parte das 12 linhas. >Linguagem para público leigo do assunto, tendo em vista que o intuíto é descomplicar. |
 
-# Sobre🧑🏻
+# Sobre👨‍💻
 
 Projeto e Repositório desenvolvidos por,  
 Guilherme Mancusi Simões  
