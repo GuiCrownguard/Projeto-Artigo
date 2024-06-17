@@ -15,7 +15,7 @@ Os comandos básicos de SQL incluem SELECT, INSERT, UPDATE e DELETE. Eles são a
 
 SELECT: Usado para buscar dados.
 
-- sql 
+- sql   
 Copiar código
 SELECT * FROM clientes;
 INSERT: Insere novos dados.
