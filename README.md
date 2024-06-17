@@ -2,7 +2,7 @@
 
 Este repositório tem o intuito de disponibilizar aos usuários interessados o Artigo com o tema "SQL Descomplicado: Guia Completo para Iniciantes".
 
-Espero que gostem!
+Espero que gostem! Aproveitem!😄💕
 
-# ARTIGO📘 **********************************************************
+# ARTIGO📘 ***********************************************************
 ![Artigo](Artigo.png)
