@@ -36,5 +36,5 @@ SQL é uma habilidade indispensável no mundo moderno, onde a análise de dados 
 Gostou do conteúdo? É importante frizar que ele foi gerado 100% por uma **Inteligência Artificial (ChatGPT)**, e revisado por um humano, que por sinal possuí Linkedin, se lhe interessar visite-me, [**Guilherme Mancusi Simões**](https://www.linkedin.com/in/guilherme-mancusi-sim%C3%B5es-882873215/). Vamos aprender juntos e dominar o mundo com a tecnologia!
 
 #SQL #BancodeDados #Programação #Tecnologia
-# **********************************************************************
+# ***********************************************************
 
