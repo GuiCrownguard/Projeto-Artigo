@@ -33,7 +33,7 @@ No cotidiano, SQL pode ser uma ferramenta poderosa para diversas tarefas. Se voc
 # Considerações Finais sobre SQL
 SQL é uma habilidade indispensável no mundo moderno, onde a análise de dados é crucial para o sucesso de qualquer negócio. Sua facilidade de uso e a vasta gama de aplicações tornam essa linguagem essencial para profissionais de todas as áreas. Aprender SQL pode abrir portas para novas oportunidades e melhorar sua eficiência no trabalho. Não importa se você é um iniciante ou um profissional experiente, sempre há algo novo para descobrir no universo dos bancos de dados.
 
-Gostou do conteúdo? É importante frizar que ele foi gerado 100% por uma inteligência artificial (ChatGPT), e revisado por um humano, que por sinal possuí Linkedin, se lhe interessar visite-me, Guilherme Mancusi Simões. Vamos aprender juntos e dominar o mundo com a tecnologia!
+Gostou do conteúdo? É importante frizar que ele foi gerado 100% por uma **Inteligência Artificial (ChatGPT)**, e revisado por um humano, que por sinal possuí Linkedin, se lhe interessar visite-me, [**Guilherme Mancusi Simões**](https://www.linkedin.com/in/guilherme-mancusi-sim%C3%B5es-882873215/). Vamos aprender juntos e dominar o mundo com a tecnologia!
 
 #SQL #BancodeDados #Programação #Tecnologia
 
