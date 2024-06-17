@@ -13,26 +13,18 @@ SQL (Structured Query Language) é uma linguagem de programação utilizada para
 # Comandos Básicos de SQL e Exemplos de seus Usos
 Os comandos básicos de SQL incluem SELECT, INSERT, UPDATE e DELETE. Eles são a espinha dorsal de qualquer operação com banco de dados.
 
-SELECT: Usado para buscar dados.
-
-- sql   
-Copiar código
+- SELECT: Usado para buscar dados.  
 SELECT * FROM clientes;
-INSERT: Insere novos dados.
 
-- sql  
-Copiar código
+- INSERT: Insere novos dados.  
 INSERT INTO clientes (nome, email) VALUES ('João', 'joao@email.com');
-UPDATE: Atualiza dados existentes.
 
-- sql  
-Copiar código
+- UPDATE: Atualiza dados existentes.  
 UPDATE clientes SET email = 'novoemail@email.com' WHERE nome = 'João';
-DELETE: Remove dados.
 
-- sql  
-Copiar código
+- DELETE: Remove dados.  
 DELETE FROM clientes WHERE nome = 'João';
+
 Com esses comandos, você pode realizar as operações essenciais em qualquer banco de dados relacional.
 
 # Aplicando o SQL no Nosso Dia a Dia
