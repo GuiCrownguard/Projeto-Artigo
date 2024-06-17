@@ -1,2 +1,7 @@
-# Projeto-Artigo
-Projeto de criação de um Artigo com auxílio de IA's, proposto no Bootcamp Satander 2024 [Fundamentos de IA para Devs].
+# Projeto Artigo - Santander 2024 [Fundamentos de IA para Devs]📖
+
+Este repositório tem o intuito de disponibilizar aos usuários interessados o Artigo com o tema "SQL Descomplicado: Guia Completo para Iniciantes".
+
+Espero que gostem!
+
+#ARTIGO ******************************************************************************************************************************************
