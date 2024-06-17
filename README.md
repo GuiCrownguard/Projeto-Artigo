@@ -4,7 +4,7 @@ Este repositório tem o intuito de disponibilizar aos usuários interessados o A
 
 Espero que gostem! Aproveitem!😄💕
 
-# ARTIGO📘 ************************************************************
+# ARTIGO📘 ***********************************************************
 ![Artigo](Artigo.png)
 
 # O que é SQL: Origem e Usos
