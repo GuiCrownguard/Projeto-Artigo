@@ -15,22 +15,22 @@ Os comandos básicos de SQL incluem SELECT, INSERT, UPDATE e DELETE. Eles são a
 
 SELECT: Usado para buscar dados.
 
-sql
+- sql 
 Copiar código
 SELECT * FROM clientes;
 INSERT: Insere novos dados.
 
-sql
+- sql  
 Copiar código
 INSERT INTO clientes (nome, email) VALUES ('João', 'joao@email.com');
 UPDATE: Atualiza dados existentes.
 
-sql
+- sql  
 Copiar código
 UPDATE clientes SET email = 'novoemail@email.com' WHERE nome = 'João';
 DELETE: Remove dados.
 
-sql
+- sql  
 Copiar código
 DELETE FROM clientes WHERE nome = 'João';
 Com esses comandos, você pode realizar as operações essenciais em qualquer banco de dados relacional.
